@@ -14,6 +14,6 @@
 ## 成員與分工
 |成員|分工|
 |---|---|
-|學生A （倉庫維護者）|構思總體流程，實作遊戲函式MoveDown、MoveUp、MoveLeft、MoveRight、CkFull、GetNew2XYPoint、DrawMain、ClearRightAbove、ASCII藝術字顯示，測試bug，修復bug，製作PowerPoint第11~23頁|
+|學生A （倉庫維護者）|構思總體流程，實作遊戲函式MoveDown、MoveUp、MoveLeft、MoveRight、CkFull、GetNew2XYPoint、DrawMain、ClearRightAbove、ASCII藝術字顯示，測試bug，修復bug，製作PowerPoint第11\~23頁|
 |學生B |繪製流程圖，美化函式DrawMain，新增Highest Score功能，新增重新遊玩功能，測試 bug，修復bug，製作PowerPoint第10頁|
-|學生C |測試bug，製作PowerPoint第1~9、24~28頁|
+|學生C |測試bug，製作PowerPoint第1\~9、24\~28頁|
